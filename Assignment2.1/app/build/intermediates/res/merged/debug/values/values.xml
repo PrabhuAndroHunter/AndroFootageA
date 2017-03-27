@@ -30,9 +30,7 @@
     <color name="colorAccent">#FF4081</color>
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
-    <color name="colorSubTitle">#dbf255</color>
-    <color name="colorTitle">#15f419</color>
-    <color name="colorWhite">#f9f9f9</color>
+    <color name="colorWhite">#ffffff</color>
     <color name="dim_foreground_disabled_material_dark">#80bebebe</color>
     <color name="dim_foreground_disabled_material_light">#80323232</color>
     <color name="dim_foreground_material_dark">#ffbebebe</color>
@@ -352,7 +350,7 @@
     <string name="abc_shareactionprovider_share_with">Share with</string>
     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
-    <string name="app_name">Assignment 2.1</string>
+    <string name="app_name">Assignment2.1</string>
     <string name="search_menu_title">Search</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>

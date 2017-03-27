@@ -3,84 +3,84 @@
 
     <item
         is-multidex="false"
-        jar="E:\AcadGild\workspace\Assignment2.1\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
-        <dex dex="E:\AcadGild\workspace\Assignment2.1\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.0_d85bb9a848627a19cb1796c779963ec97be15dd8.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="E:\AcadGild\workspace\Assignment2.1\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
-        <dex dex="E:\AcadGild\workspace\Assignment2.1\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.0_933a34c28008285eca5b3a8b452d6503e77ff62e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="E:\AcadGild\workspace\Assignment2.1\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
-        <dex dex="E:\AcadGild\workspace\Assignment2.1\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.0_c596458694c27f2e27e83bb32adf97e5d8a6d8bf.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="E:\AcadGild\workspace\Assignment2.1\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="aee64634871d88a419d59eb743c1258a60f19700">
-        <dex dex="E:\AcadGild\workspace\Assignment2.1\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.0_3d0da673591782ac997e0e97ab8e3136ea481263.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="E:\AcadGild\workspace\Assignment2.1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
-        <dex dex="E:\AcadGild\workspace\Assignment2.1\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.0_c1fc1344c853388b0b563502e71dc97db8023fd2.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="E:\AcadGild\workspace\Assignment2.1\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="E:\AcadGild\workspace\Assignment2.1\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.0_ce035d47cac1b1705e56a73ea6fd0ab6355274d8.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="E:\AcadGild\workspace\Assignment2.1\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
-        <dex dex="E:\AcadGild\workspace\Assignment2.1\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.0_f31cc887887bbbeb5f972369992451346654b061.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="E:\AcadGild\workspace\Assignment2.1\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
-        <dex dex="E:\AcadGild\workspace\Assignment2.1\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.0_2124931400a47dc1fccabfe4e52ddab46cf576f4.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="E:\AcadGild\workspace\Assignment2.1\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jar="E:\AcadGild\Assignment2.1\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
-        <dex dex="E:\AcadGild\workspace\Assignment2.1\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.0_08a994aa01402bc31fa9680f938545b9c65de0d1.jar" />
+        <dex dex="E:\AcadGild\Assignment2.1\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.0_50277269eb4f4b0b15343bac694283864626b6b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AcadGild\Assignment2.1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="E:\AcadGild\Assignment2.1\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.0_a323f942681163f9c5cff66e1dd067ffb3c4f74d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AcadGild\Assignment2.1\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="E:\AcadGild\Assignment2.1\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.0_58d2e0e8ee40b6a70c8a20d4ecce8bfea48188fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AcadGild\Assignment2.1\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="E:\AcadGild\Assignment2.1\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.0_f976467c70d0a166e468fbe39ad6528590831241.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AcadGild\Assignment2.1\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="E:\AcadGild\Assignment2.1\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.0_5f0cb8395fc109c1c7aa4552d41890dc367dece5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AcadGild\Assignment2.1\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="E:\AcadGild\Assignment2.1\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.0_ef9318d3efbbb9de251a6653a2d35344176150ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AcadGild\Assignment2.1\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="E:\AcadGild\Assignment2.1\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.0_9a36160e898cf01789b4af143a6e48863ee21947.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AcadGild\Assignment2.1\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\AcadGild\Assignment2.1\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.0_4430e01087b2efb95eebe58d882aa76881d0e47f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AcadGild\Assignment2.1\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="E:\AcadGild\Assignment2.1\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.0_3e9762ebab091061defcf9195141acdfaf2c5c98.jar" />
     </item>
     <item
         is-multidex="false"
@@ -89,7 +89,7 @@
         optimize="true"
         revision="25.0.2"
         sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
-        <dex dex="E:\AcadGild\workspace\Assignment2.1\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.0_c9c310d81e53a6de4784e8159728f67dfe7686e7.jar" />
+        <dex dex="E:\AcadGild\Assignment2.1\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.0_c9c310d81e53a6de4784e8159728f67dfe7686e7.jar" />
     </item>
 
 </items>
